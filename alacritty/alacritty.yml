@@ -1,0 +1,14 @@
+import:
+  - ~/.config/alacritty/themes/themes/google.yml
+
+window:
+  padding:
+    x: 15
+    y: 10
+
+  decorations: none
+
+  startup_mode: Maximized
+
+font:
+  size: 14

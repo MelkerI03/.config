@@ -1,0 +1,138 @@
+id|name|cuteness
+01|puppy|very
+02|kitten|ok
+03|bunny|ok
+
+suppose you only know four motions, w, $, }, g and only one operator, d. you can do 8 actions: move 4 different ways (w, $, }, g) and delete 4 
+different targets (dw, d$, d}, dg). then one day you learn about the uppercase (gu) operator. you have added not just one new ability to your vim tool
+belt, but four: guw, gu$, gu}, gug. this makes at 12 tools in your vim tool belt. each new knowledge is a multiplier to your current abilities. if you
+know 10 motions and 5 operators, you have 60 moves (50 operations + 10 motions) in your arsenal. vim has a line-number motion (ng) that gives you n 
+motions, where n is how many lines you have in your file (to go to line 5, run 5g). the search motion (/) practically gives you near unlimited number 
+motions because you can search for anything. external command operator (!) gives you as many filtering tools as the number of terminal commands you 
+know. using a composable tool like vim, everything you know can be linked together to do operations with increasing complexity. the more you know, 
+the more powerful you become.
+
+function stateline(string pipe, int count) {
+  for each in {
+    this is not it
+    for fucks sake!!!
+  }
+}
+
+let one = "1";
+let two = "2";
+let three = "3";
+
+pancake potatoes fruit-juice
+
+pancake,
+potatoes,
+fruit-juice,
+
+const eight = "8";
+const nine = "9";
+
+let one = "1";
+let two = "2";
+let three = "3";
+let four = "4";
+hello vim
+bar / bar/foo foo barbar foobarfoo
+
+0w~$bideep fried a,
+
+
+a. chocolate deep fried donut,,
+b. mochi deep fried donut,
+c. powdered sugar deep fried donut,
+d. plain deep fried donut,
+
+import { func1 } from "library1";
+import { func2 } from "library2";
+import { func3 } from "library3";
+import { func4 } from "library4";
+import { func5 } from "library5";
+
+import { func1 } from "library1";
+import { func2 } from "library2";
+import { func3 } from "library3";
+import foo from "bar";
+import { func4 } from "library4";
+import { func5 } from "library5";
+
+one
+four
+
+this is a prargraph im writing, which im not proud of something im writing myself. it is an autobiography which starts with the letter a.
+this aint it
+
+one
+two
+three
+
+===========
+Chapter One
+===========
+
+let one = "one";;thi
+let two this is not it= "two";;this
+const three = "three";;this
+
+1 The quick brown chicken
+2 chicken jumps
+3 over the
+4 lazy chicken,
+5 but it should be just a fox.
+
+<div id="app-1"></div>
+<div id="app-1"></div>
+<div id="app-1"></div>
+<div id="app-1"></div>
+<div id="app-1"></div>
+
+<div id="app-a"></div>
+<div id="app-a"></div>
+<div id="app-a"></div>
+<div id="app-a"></div>
+<div id="app-a"></div>
+
+large chicken
+medium chicken
+small chicken
+
+const one = 1;
+console.log("one: ", one);
+const two = 2;
+console.log("two: ", two);
+const three = 3;
+console.log("three: ", three);
+
+const abcd = 3;
+const abcd = 3;
+const abcd = 3;
+
+const arrayB = [
+  "a",
+  "b",
+  "c",
+  "d",
+  "e",
+  "f",
+  "g",
+  "h",
+  "i",
+]
+
+const arrayA = [
+  "h",
+  "b",
+  "f",
+  "d",
+  "e",
+  "a",
+  "c",
+]
+
+fat, cat, rat
+
+
